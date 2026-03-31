@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-> Live App → **[mandi-tracker.vercel.app](https://mandi-tracker.vercel.app)** *(update after deploy)*
+> Live App → **[mandi-tracker.vercel.app](https://mandi-price-track.vercel.app)** *(update after deploy)*
 
 ![App Screenshot](./public/preview.png) *(add screenshot after deploy)*
 
